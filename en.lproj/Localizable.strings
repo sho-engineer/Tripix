@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Tripix
+
+  Created by 石井　翔 on 2024/10/27.
+  
+*/
+
+// Login related messages
+"email" = "Email";
+"password" = "Password";
+"other_login_options" = "Other Login Options";
