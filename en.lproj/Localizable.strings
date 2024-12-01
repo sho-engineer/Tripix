@@ -10,3 +10,21 @@
 "email" = "Email";
 "password" = "Password";
 "other_login_options" = "Other Login Options";
+// Home screen messages
+"Album History" = "Album History";
+"Features" = "What You Can Do";
+"Albums" = "Relive Memories with Albums";
+"AR" = "AR Experience";
+"Guide" = "Guide Info";
+"Settings" = "Settings";
+"Learning" = "Learning Content";
+"Badge" = "Badge Collection";
+"View and share your photo albums" = "Relive memories with albums";
+"Experience augmented reality" = "Enjoy AR";
+"Access our comprehensive guide" = "Check the guide";
+"Personalize your app settings" = "Customize your app";
+"Explore educational content about tourist spots" = "Learn about tourist spots";
+"Collect badges for visiting tourist spots" = "Collect badges by visiting spots";
+"To Be Released" = "Coming Soon";
+"More" = "See More";
+
